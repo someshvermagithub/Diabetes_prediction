@@ -26,7 +26,7 @@ The Diabetes Prediction Project is a machine learning application that analyzes 
 ## Dataset
 The project uses a structured dataset containing patient records with features such as age, blood pressure, glucose levels, and more. Each entry is labeled to indicate whether the individual has diabetes.
 
-**Data Source:** [Add data source if public, otherwise mention "Confidential"]
+**Data Source:** "https://www.kaggle.com/datasets/saurabh00007/diabetescsv"
 
 **Sample Data Fields:**
 - Pregnancies
