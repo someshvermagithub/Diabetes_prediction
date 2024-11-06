@@ -54,7 +54,7 @@ The model leverages a mix of personal and health-related features:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/diabetes-prediction.git
+   git clone https://github.com/someshvermagithub/Diabetes_prediction.git
    cd diabetes-prediction
    ```
 
