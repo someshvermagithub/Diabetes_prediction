@@ -92,7 +92,7 @@ In this project, we explored multiple machine learning models to predict diabete
 [Include results such as the best model performance metrics and any significant findings]
 
 ### Key Findings
-- Model X achieved the highest accuracy of XX% on the test set.
+- Model X achieved the highest accuracy of 77.27% using SVC on the test set.
 - Feature Y was the most influential in predicting diabetes presence.
 
 ## Contributing
