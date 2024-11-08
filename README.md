@@ -26,7 +26,7 @@ The Diabetes Prediction Project is a machine learning application that analyzes 
 ## Dataset
 The project uses a structured dataset containing patient records with features such as age, blood pressure, glucose levels, and more. Each entry is labeled to indicate whether the individual has diabetes.
 
-**Data Source:** [Add data source if public, otherwise mention "Confidential"]
+**Data Source:** "https://www.kaggle.com/datasets/saurabh00007/diabetescsv"
 
 **Sample Data Fields:**
 - Pregnancies
@@ -92,7 +92,7 @@ In this project, we explored multiple machine learning models to predict diabete
 [Include results such as the best model performance metrics and any significant findings]
 
 ### Key Findings
-- Model X achieved the highest accuracy of XX% on the test set.
+- Model X achieved the highest accuracy of 77.27% using SVC on the test set.
 - Feature Y was the most influential in predicting diabetes presence.
 
 ## Contributing
